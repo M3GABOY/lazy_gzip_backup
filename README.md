@@ -1,5 +1,5 @@
 # Lazy Gzip Backup
-A lazy script to gzip directory. Crontab compatible.
+A lazy script to gzip directory with date. Crontab compatible.
 
 
 # Usage:
